@@ -11,7 +11,7 @@ spec:
     volumeID: vol-0d66769406ab119bc
   capacity:
     storage: 20Gi
-    ---
+---
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
